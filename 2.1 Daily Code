@@ -1,0 +1,3 @@
+Intro: Create a sound effect program that asks a user to pick a sound from a numbered menu, and then prints out a verbal version of that sound. Then ask an advanced student how to use the PlaySound function to actually play that sound effect. You can either record your own sounds OR download them from the net.
+
+Advanced: do some online research and look up 3 allegro drawing functions you haven't used yet. Use them to draw some modern art to your screen. 
